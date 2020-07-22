@@ -1,7 +1,7 @@
 ﻿namespace MarsRover
 {
     /// <summary>
-    /// Robot sınıfı.
+    /// Robot sınıfı
     /// </summary>
     public class Robot
     {
